@@ -1,3 +1,7 @@
 ## Tcp-Rectangle-Game
 <hr>
-# ÖZELLİKLER
+- React Native
+- React Navigation
+- Bottom Bar Navigation (Animated)
+- Mobx-state-tree
+- Styling
