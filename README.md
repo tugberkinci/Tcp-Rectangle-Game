@@ -1,4 +1,3 @@
-# Tcp-Rectangle-Game
+## Tcp-Rectangle-Game
 <hr>
 # ÖZELLİKLER
-## 
