@@ -19,7 +19,7 @@
 - Dışarı alınan zip dosyasından, bin -> debug -> WindowsFormApplication2.exe dosyası çalıştırılır.
 - Port bilgisi girilir ve server başlatılır. (Thread mekanizmasından dolayı bağlantı sağlanılana kadar server ekranına herhangi bir müdahale yapılamaz.)
 - Aynı uygulama bir kez daha çalıştırılır.
-- Açılan uygulamada server bilgisine girilen port bilgisi bu sefer client tarafına yazılır ve, Server tarafındaki IP bilgisi Client tarafındaki port bilgisine yazılır.
+- Açılan uygulamada server bilgisine girilen port bilgisi bu sefer client tarafına yazılır ve, Server tarafındaki IP bilgisi Client tarafındaki IP bilgisine yazılır.
 - Uygulama başlatılr.
 - Uygulama açıldıktan sonra server tarafından bilgi gelene kadar iki ekran da boş gelir. Bilgi geldikten sonra kareler oluşur ve server tarafından
 gelen bilgiye göre ekrandaki şekiller hareket eder.
