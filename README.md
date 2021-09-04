@@ -21,7 +21,7 @@
 - Aynı uygulama bir kez daha çalıştırılır.
 - Açılan uygulamada server bilgisine girilen port bilgisi bu sefer client tarafına yazılır ve, Server tarafındaki IP bilgisi Client tarafındaki port bilgisine yazılır.
 - Uygulama başlatılr.
-- Uygulama açıldıktan sonra server tarafından bilgi gelene kadar iki ekran da boş gelir. Bilgi geldikten sonra kareler oluşur ve server tarafından.
+- Uygulama açıldıktan sonra server tarafından bilgi gelene kadar iki ekran da boş gelir. Bilgi geldikten sonra kareler oluşur ve server tarafından
 gelen bilgiye göre ekrandaki şekiller hareket eder.
 
 
